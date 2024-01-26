@@ -1,0 +1,21 @@
+{
+  "short_name": "AInovate",
+  "name": "AInovate",
+  "icons": [
+    {
+      "src": "https://static1.squarespace.com/static/6477664e1871c6136e35dd42/t/65b424000bf27c0cfb44735c/1706304512688/AInovatelogo_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://static1.squarespace.com/static/6477664e1871c6136e35dd42/t/65b42400e959082cba05d9a5/1706304512763/logo+ainovate512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://mdriessenprojects.com/ainovate-mobile",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#000000"
+}
